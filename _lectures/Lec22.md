@@ -9,7 +9,7 @@ people:
   - gautham
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-11-14
+deliverydate: 2024-04-16
 link-slides: 
 link-scribbles: 
 link-recording: 

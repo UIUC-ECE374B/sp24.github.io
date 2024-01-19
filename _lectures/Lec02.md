@@ -9,7 +9,7 @@ people:
   - nicholas
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-08-29
+deliverydate: 2024-01-23
 link-slides: 
 link-scribbles: 
 link-recording: 

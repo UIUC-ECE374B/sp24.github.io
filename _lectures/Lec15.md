@@ -9,7 +9,7 @@ people:
   - sindhu
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-10-17
+deliverydate: 2024-03-19
 link-slides: 
 link-scribbles: 
 link-recording: 

@@ -8,7 +8,7 @@ description: Let's take a breather before the third midterm and simply go over s
 people:
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-11-28
+deliverydate: 2024-04-23
 link-slides: 
 link-scribbles: 
 link-recording: 

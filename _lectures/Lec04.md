@@ -9,7 +9,7 @@ people:
   - sandhya
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-09-05
+deliverydate: 2024-01-30
 link-slides: 
 link-scribbles: 
 link-recording: 

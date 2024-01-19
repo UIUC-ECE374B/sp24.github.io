@@ -8,7 +8,7 @@ description: We'll discuss more NP-complete problems/reductions and specifically
 people:
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-11-09
+deliverydate: 2024-04-11
 link-slides: 
 link-scribbles: 
 link-recording: 

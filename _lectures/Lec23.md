@@ -9,7 +9,7 @@ people:
   - ifesi
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-11-16
+deliverydate: 2024-04-18
 link-slides: 
 link-scribbles: 
 link-recording: 

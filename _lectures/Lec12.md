@@ -9,7 +9,7 @@ people:
   - sungwoo
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-10-05
+deliverydate: 2024-02-29
 link-slides: 
 link-scribbles: 
 link-recording: 

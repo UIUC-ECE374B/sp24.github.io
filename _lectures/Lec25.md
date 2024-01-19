@@ -8,7 +8,7 @@ description: Last lecture. We'll go over all the concepts discussed in the cours
 people:
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-12-05
+deliverydate: 2024-04-30
 link-slides: 
 link-scribbles: 
 link-recording: 

@@ -9,7 +9,7 @@ people:
   - kani
 layout: lecture
 # no-link: true  # stops link to page 
-deliverydate: 2023-08-24
+deliverydate: 2024-01-18
 link-slides: 
 link-scribbles: 
 link-recording: 
