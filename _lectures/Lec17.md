@@ -10,9 +10,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2023-10-24
-link-slides: /materials/lecture_slides/lec18.pdf
-link-scribbles: /materials/lecture_slides/lec18_scribbles_fa23.pdf
-link-recording: https://mediaspace.illinois.edu/media/t/1_veiu330i/
+link-slides: 
+link-scribbles: 
+link-recording: 
 ---
 
 <h4>Dijkstra's Algorithm on Negative-weighted Graphs</h4>

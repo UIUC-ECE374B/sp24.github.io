@@ -10,9 +10,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2023-09-07
-link-slides: /materials/lecture_slides/lec5.pdf
-link-scribbles: /materials/lecture_slides/lec5_scribbles_fa23.pdf
-link-recording: https://mediaspace.illinois.edu/media/t/1_mftaxcm1
+link-slides: 
+link-scribbles: 
+link-recording: 
 ---
 
 <h4>Non-Regular Language</h4>
