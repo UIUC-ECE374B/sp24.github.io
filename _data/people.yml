@@ -1,3 +1,18 @@
+abhishek:
+    display_name: "Abhishek Kumar Umrawal"
+    netid: aumrawal
+    webpage: "https://www.linkedin.com/in/abhishekumrawal/"
+    github: 
+    role: faculty
+    image: /img/people/abhishek.png
+    bio: Teaching Assistant Professor 
+    # OHs: 
+    #   OH1:
+    #     time-start: "15:00"
+    #     time-end: "16:00"
+    #     day: Thursday
+    #     location: 4036 ECEB
+
 kani:
     display_name: "Nickvash Kani"
     netid: kani
@@ -12,21 +27,6 @@ kani:
     #     time-end: "16:00"
     #     day: Tuesday
     #     location: 239 CSL
-
-abhishek:
-    display_name: "Abhishek Kumar Umrawal"
-    netid: aumrawal
-    webpage: "https://www.linkedin.com/in/abhishekumrawal/"
-    github: 
-    role: alum
-    image: /img/people/abhishek.png
-    bio: Teaching Assistant Professor 
-    # OHs: 
-    #   OH1:
-    #     time-start: "15:00"
-    #     time-end: "16:00"
-    #     day: Thursday
-    #     location: 4036 ECEB
 
 
 # scott:
@@ -608,7 +608,7 @@ sindhu:
     netid: svydana2
     webpage: "https://linkedin.com/in/sindhu-vydana/"
     github: vydanasindhu
-    role: grad
+    role: alum
     image: /img/people/sindu.jpeg
     bio: Graduate Teaching Assistant
     # OHs: 
@@ -623,7 +623,7 @@ yueyi:
     netid: yueyis2
     webpage: "http://www.linkedin.com/in/yueyishen"
     github: yueyis2
-    role: grad
+    role: alum
     image: /img/people/yueyie.jpg
     bio: Graduate Course Assistant
     # OHs: 
@@ -638,7 +638,7 @@ sandhya:
     netid: sp84
     webpage: "https://www.linkedin.com/in/sandhya-rao-p"
     github: sandhya-rao-p
-    role: grad
+    role: alum
     image: /img/people/sandhya.jpeg
     bio: Graduate Teaching Assistant
     # OHs: 
