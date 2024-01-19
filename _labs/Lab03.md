@@ -8,7 +8,7 @@ description: Now that NFAs are understood, we can easily prove regular closure f
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-09-01
+deliverydate: 2024-01-31
 link-questions: /materials/labs/lab3-lang_trans.pdf
 link-solutions: /materials/labs/lab3-lang_trans-sol.pdf
 ---

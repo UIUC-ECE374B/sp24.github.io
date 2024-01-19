@@ -8,9 +8,9 @@ description: The second lab on using reductions to show NP-hardness. Emphasis wi
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-11-10
-link-questions: /materials/labs/lab21.pdf
-link-solutions: /materials/labs/lab21-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

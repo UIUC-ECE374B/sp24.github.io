@@ -8,9 +8,9 @@ description: Some quick problem involving recursive definitions and regular expr
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-08-25
-link-questions: /materials/labs/lab1-reg_expr.pdf
-link-solutions: /materials/labs/lab1-reg_expr-sol.pdf
+deliverydate: 2024-01-24
+link-questions: 
+link-solutions: 
 ---
 
 

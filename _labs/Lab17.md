@@ -8,9 +8,9 @@ description: A few more shortest path problem that include both negative edges a
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-10-25
-link-questions: /materials/labs/lab17.pdf
-link-solutions: /materials/labs/lab17-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

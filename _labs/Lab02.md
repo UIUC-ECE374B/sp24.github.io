@@ -8,7 +8,7 @@ description: Going over how to construct DFAs and how to create formal definitio
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-08-30
+deliverydate: 2024-01-26
 link-questions: /materials/labs/lab2-dfas.pdf
 link-solutions: /materials/labs/lab2-dfas-sol.pdf
 ---

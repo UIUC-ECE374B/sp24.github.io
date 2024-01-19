@@ -8,9 +8,9 @@ description: We'll continue our work on recursion by practicing how to use backt
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-10-04
-link-questions: /materials/labs/lab11.pdf
-link-solutions: /materials/labs/lab11-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

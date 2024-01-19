@@ -8,9 +8,9 @@ description: Second dynamic programming lab. We take classic DP problems and exp
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-10-11
-link-questions: /materials/labs/lab13.pdf
-link-solutions: /materials/labs/lab13-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

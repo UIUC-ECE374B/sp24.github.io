@@ -8,9 +8,9 @@ description: A second graph algorithms lab focusing on formulating problems as g
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-10-18
-link-questions: /materials/labs/lab15.pdf
-link-solutions: /materials/labs/lab15-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

@@ -8,9 +8,9 @@ description: Having learned our first shortest path algorithm (Djikstra's) we'll
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-10-20
-link-questions: /materials/labs/lab16.pdf
-link-solutions: /materials/labs/lab16-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 

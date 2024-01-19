@@ -8,9 +8,9 @@ description: "We'll discuss one of the OG divide and conquer algorithms: Kartsub
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2023-09-29
-link-questions: /materials/labs/lab10-divnconq.pdf
-link-solutions: /materials/labs/lab10-divnconq-sol.pdf
+deliverydate: 2024
+link-questions: 
+link-solutions: 
 ---
 
 
