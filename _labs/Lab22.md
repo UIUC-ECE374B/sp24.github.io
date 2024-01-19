@@ -8,7 +8,7 @@ description: First lab on decidability. We'll be testing the waters on some simp
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-04-19
+deliverydate: 2024-04-17
 link-questions: 
 link-solutions: 
 ---

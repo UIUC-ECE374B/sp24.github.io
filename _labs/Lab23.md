@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Lab 23 - Decidability II
 placeholder: false
 back-color: faf4fa
@@ -8,10 +8,10 @@ description: The second lab on decidability. We'll prove some other languages ar
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024
+deliverydate: 2024-04-19
 link-questions: 
 link-solutions: 
---- -->
+---
 
 
 
