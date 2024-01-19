@@ -3,7 +3,7 @@ layout: default
 title: Course Schedules
 ---
 
-Under Construction. There will be no office hours the first week (use Piazza). We'll begin OHs on Aug. 28.
+Under Construction. There will be no office hours the first week (use Piazza). We'll begin OHs on Jan. 22.
 
 #### Lectures
 
@@ -16,9 +16,9 @@ Under Construction. There will be no office hours the first week (use Piazza). W
   </tr>
   <tr>
     <td> BL1 </td>
-    <td> 12:30PM - 1:45PM </td>
-    <td> Kani </td>
-    <td> 0027/1025 CIF </td>
+    <td> 09:30PM - 10:45PM </td>
+    <td> Umrawal </td>
+    <td> 2079 Natural History Building </td>
   </tr>
 </table>
 &nbsp;
@@ -33,40 +33,40 @@ Under Construction. There will be no office hours the first week (use Piazza). W
   </tr>
   <tr>
     <td> BYA </td>
-    <td> 09:00AM - 09:50AM </td>
-    <td> Jack Chen, Yueyi Shen </td>
-    <td> 2017 ECEB </td>
+    <td> 10:00AM - 10:50AM </td>
+    <td> Hongyu Shen </td>
+    <td> 2055 Sidney Lu Mech Engr Bldg </td>
   </tr>
   <tr>
     <td> BYB </td>
-    <td> 10:00AM - 10:50AM </td>
-    <td> Haoyuan You </td>
+    <td> 11:00AM - 11:50AM </td>
+    <td> Weiyang Wang </td>
     <td> 0216 Siebel </td>
   </tr>
   <tr>
     <td> BYC </td>
-    <td> 11:00AM - 11:50AM </td>
-    <td> Sindhu Vydana </td>
-    <td> 4070 ECEB </td>
+    <td> 12:00AM - 12:50AM </td>
+    <td> Jack Chen </td>
+    <td> 2015 ECEB </td>
   </tr>
   <tr>
     <td> BYD </td>
-    <td> 12:00PM - 12:50PM </td>
-    <td> Sandhya Perumenki </td>
-    <td> 4070 ECEB </td>
+    <td> 03:00PM - 03:50PM </td>
+    <td> Haoyuan </td>
+    <td> 2015 ECEB </td>
   </tr>
   <tr>
     <td> BYE </td>
     <td> 01:00PM - 01:50PM </td>
-    <td> Weiyang Wang, Sumedh Vemuganti </td>
-    <td> 4070 ECEB </td>
+    <td> Sumedh Vemuganti </td>
+    <td> 2015 ECEB </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td> BYF </td>
     <td> 02:00PM - 02:50PM </td>
     <td> Sung Woo Jeon </td>
     <td> 4070 ECEB </td>
-  </tr>
+  </tr> -->
 </table>
 &nbsp;
 
