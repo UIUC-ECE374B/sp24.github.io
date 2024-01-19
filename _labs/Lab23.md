@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Lab 23 - Decidability II
 placeholder: false
 back-color: faf4fa
@@ -11,7 +11,7 @@ no-link: true  # stops link to page
 deliverydate: 2024
 link-questions: 
 link-solutions: 
----
+--- -->
 
 
 

@@ -8,7 +8,7 @@ description: A second graph algorithms lab focusing on formulating problems as g
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024
+deliverydate: 2024-03-20
 link-questions: 
 link-solutions: 
 ---

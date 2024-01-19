@@ -8,7 +8,7 @@ description: Having learned our first shortest path algorithm (Djikstra's) we'll
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024
+deliverydate: 2024-03-22
 link-questions: 
 link-solutions: 
 ---

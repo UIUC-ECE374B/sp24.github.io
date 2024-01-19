@@ -8,7 +8,7 @@ description: A few more shortest path problem that include both negative edges a
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024
+deliverydate: 2024-03-27
 link-questions: 
 link-solutions: 
 ---

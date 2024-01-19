@@ -8,7 +8,7 @@ description: Our first graph algorithms lab. This first lab will be on formulati
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024
+deliverydate: 2024-03-08
 link-questions: 
 link-solutions: 
 ---
