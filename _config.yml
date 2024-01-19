@@ -34,7 +34,7 @@ roles:
 front_page_news: 4
 
 # Base pathname for links.
-base: ''
+base: '/UIUC-ECE374B-SP24.github.io'
 
 # make pages for the colections
 collections:
@@ -50,16 +50,16 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io//
+    link: 
   # - title: People
   #   link: /people.html
   - title: Lectures and Labs
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io/lectures.html    
+    link: /lectures.html    
   - title: Homeworks
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io/homeworks.html
+    link: /homeworks.html
   - title: Exams
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io/exams.html    
+    link: /exams.html    
   - title: Policies
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io/policies.html
+    link: /policies.html
   - title: Schedules
-    link: https://ecealgo.com/UIUC-ECE374B-SP24.github.io/office_hours.html       
+    link: /office_hours.html       
