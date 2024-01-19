@@ -8,7 +8,7 @@ description: Some quick problem involving recursive definitions and what a langu
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-01-24
+deliverydate: 2024-01-17
 link-questions: 
 link-solutions: 
 ---
