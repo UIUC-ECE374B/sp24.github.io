@@ -34,7 +34,7 @@ roles:
 front_page_news: 4
 
 # Base pathname for links.
-base: ''
+base: 'https://ecealgo.com/UIUC-ECE374B-SP24.github.io/'
 
 # make pages for the colections
 collections:
