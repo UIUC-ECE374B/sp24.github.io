@@ -71,7 +71,7 @@ sungwoo:
         time-start: "16:00"
         time-end: "17:00"
         day: Friday
-        location: TBA
+        location: ECEB 4070
 
 sumedh:
     display_name: "Sumedh Vemuganti"
@@ -86,7 +86,7 @@ sumedh:
         time-start: "13:00"
         time-end: "14:00"
         day: Tuesday
-        location: TBA
+        location: ECEB 3020
 
 weiyang:
     display_name: "Weiyang Wang"
@@ -101,7 +101,7 @@ weiyang:
         time-start: "14:00"
         time-end: "15:00"
         day: Tuesday
-        location: TBA
+        location: ECEB 3020
 
 ziheng:
     display_name: "Ziheng (Jack) Chen"
@@ -116,7 +116,7 @@ ziheng:
         time-start: "11:00"
         time-end: "12:00"
         day: Tuesday
-        location: TBA
+        location: ECEB 2036
 
 # yueyi:
 #     display_name: "Yueyi Shen"
@@ -146,7 +146,7 @@ haoyuan:
         time-start: "17:00"
         time-end: "18:00"
         day: Thursday
-        location: TBA
+        location: ECEB 3036
 
 anthea:
     display_name: "Anthea Chen"
@@ -161,7 +161,7 @@ anthea:
         time-start: "16:00"
         time-end: "17:00"
         day: Thursday
-        location: TBA
+        location: ECEB 3036
 
 hongyu:
     display_name: "Hongyu Shen"
@@ -176,7 +176,7 @@ hongyu:
         time-start: "14:00"
         time-end: "15:00"
         day: Friday
-        location: TBA
+        location: ECEB 3036
 
 # hongbo:
 #     display_name: "Hongbo Zheng"
