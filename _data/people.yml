@@ -13,14 +13,14 @@ abhishek:
     #     day: Thursday
     #     location: 4036 ECEB
 
-kani:
-    display_name: "Nickvash Kani"
-    netid: kani
-    webpage: "https://nickvashkani.com"
-    github: NickvashKani
-    role: faculty
-    image: /img/people/Kani.png
-    bio: Research Assistant Professor 
+# kani:
+#     display_name: "Nickvash Kani"
+#     netid: kani
+#     webpage: "https://nickvashkani.com"
+#     github: NickvashKani
+#     role: faculty
+#     image: /img/people/Kani.png
+#     bio: Research Assistant Professor 
     # OHs: 
     #   OH1:
     #     time-start: "15:00"
