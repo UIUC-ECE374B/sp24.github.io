@@ -1,5 +1,5 @@
 ---
-title: Lab 1 - Languages and regular expression
+title: Lab 1 - Languages & recursive definitions & regular expression
 placeholder: false
 back-color: f4fafa
 card-link: LabLink01
