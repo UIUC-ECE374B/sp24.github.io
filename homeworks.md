@@ -63,7 +63,7 @@ Couple things to note about homeworks:
 ### Homework Logistics: How to submit
 
 - All homework solutions must be submitted electronically via Gradescope. Submit one PDF file for each numbered homework problem. Gradescope will not accept other file formats such as plain text, HTML, LaTeX source, or Microsoft Word (.doc or .docx).
-- **Homeworks are due by 6 AM** of their due date. 
+- **Homeworks are due by 12 PM** of their due date. 
 - You **should not** use Canvas to keep track of homeworks or any other course policies and logistics. **Canvas is a gradebook, that's all.**  
 - You will be registered with Gradescope using your university email address. If you can't access Gradescope let the course staff know. 
 - All homework assignments must be completed and submitted individually this semester. No group assignments. 
