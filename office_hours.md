@@ -41,7 +41,7 @@ Under Construction. There will be no office hours the first week (use Piazza). W
     <td> BYB </td>
     <td> 11:00AM - 11:50AM </td>
     <td> Weiyang Wang </td>
-    <td> 0216 Siebel </td>
+    <td> 1035 CIF </td>
   </tr>
   <tr>
     <td> BYC </td>
