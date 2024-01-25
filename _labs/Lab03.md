@@ -9,8 +9,8 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-01-26
-link-questions: 
-link-solutions: 
+link-questions: /materials/labs/lab3-lang_trans.pdf
+link-solutions: # /materials/labs/lab3-lang_trans-sol.pdf
 ---
 
 
