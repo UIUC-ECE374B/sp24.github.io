@@ -10,7 +10,7 @@ layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-01-24
 link-questions: /materials/labs/lab2-dfas.pdf
-link-solutions: # /materials/labs/lab2-dfas-sol.pdf
+link-solutions: /materials/labs/lab2-dfas-sol.pdf
 ---
 
 
