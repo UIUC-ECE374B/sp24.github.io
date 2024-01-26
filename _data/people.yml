@@ -276,12 +276,12 @@ ved:
     role: ugrad
     image: /img/people/ved-eti.png
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Monday
-    #     location: ECEB 4036
+    OHs: 
+      OH1:
+        time-start: "13:00"
+        time-end: "15:00"
+        day: Monday
+        location: ECEB 4036
 
 brian:
     display_name: "Brian Kim"
