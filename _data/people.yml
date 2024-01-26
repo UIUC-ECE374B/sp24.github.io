@@ -455,12 +455,12 @@ vishesh:
     role: ugrad
     # image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "16:00"
-    #     time-end: "18:00"
-    #     day: Monday
-    #     location: ECEB 3020
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "18:00"
+        day: Monday
+        location: ECEB 3020
 
 varun:
     display_name: "Varun Shroff"
