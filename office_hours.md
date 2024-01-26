@@ -16,7 +16,7 @@ Under Construction. There will be no office hours the first week (use Piazza). W
   </tr>
   <tr>
     <td> BL1 </td>
-    <td> 09:30PM - 10:45PM </td>
+    <td> 09:30AM - 10:45AM </td>
     <td> Umrawal </td>
     <td> 2079 Natural History Building </td>
   </tr>
