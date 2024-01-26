@@ -12,7 +12,7 @@ layout: lecture
 deliverydate: 2024-01-18
 link-slides: /materials/lecture_slides/lec1.pdf
 link-scribbles: /materials/lecture_slides/lec1_scribbles_sp24.pdf
-link-recording: 
+link-recording: https://mediaspace.illinois.edu/media/t/1_j6ih1dck
 ---
 
 #### Strings and Languages

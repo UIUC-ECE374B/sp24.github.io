@@ -12,7 +12,7 @@ layout: lecture
 deliverydate: 2024-01-23
 link-slides: /materials/lecture_slides/lec2.pdf
 link-scribbles: /materials/lecture_slides/lec2_scribbles_sp24.pdf
-link-recording: 
+link-recording: https://mediaspace.illinois.edu/media/t/1_4aajigy5
 ---
 
 ### Deterministic Finite Automata
