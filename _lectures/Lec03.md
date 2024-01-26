@@ -11,7 +11,7 @@ layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-01-25
 link-slides: /materials/lecture_slides/lec3.pdf
-link-scribbles: # /materials/lecture_slides/lec3_scribbles_sp24.pdf
+link-scribbles: /materials/lecture_slides/lec3_scribbles_sp24.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_7k6poi8o
 ---
 
