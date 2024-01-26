@@ -382,8 +382,8 @@ chris:
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
-        time-start: "14:00"
-        time-end: "15:00"
+        time-start: "09:00"
+        time-end: "11:00"
         day: Thursday
         location: ECEB 4036
 
