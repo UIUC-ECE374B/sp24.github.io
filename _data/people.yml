@@ -197,7 +197,13 @@ ayu:
     github: ayuseiya02
     role: ugrad
     image: /img/people/ayu.jpg
-    bio: Undergraduate Course Assistant        
+    bio: Undergraduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "14:00"
+        time-end: "15:00"
+        day: Wednesday
+        location: ECEB 4036
 
 # qing:
 #     display_name: "Qing Wang"
@@ -255,6 +261,12 @@ raghav:
     role: ugrad
     image: /img/people/anon-male.jpg
     bio: Undergraduate Course Assistant
+    OHs: 
+      OH1:
+        time-start: "11:00"
+        time-end: "12:30"
+        day: Monday
+        location: 4036 ECEB
 
 ved:
     display_name: "Ved Eti"
@@ -264,12 +276,12 @@ ved:
     role: ugrad
     image: /img/people/ved-eti.png
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "12:00"
-    #     time-end: "14:00"
-    #     day: Monday
-    #     location: 3034 ECEB
+    OHs: 
+      OH1:
+        time-start: "13:00"
+        time-end: "15:00"
+        day: Monday
+        location: 4036 ECEB
 
 brian:
     display_name: "Brian Kim"
@@ -289,17 +301,17 @@ owen:
     role: ugrad
     image: /img/people/owen.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "16:00"
-    #     time-end: "17:00"
-    #     day: Tuesday
-    #     location: 4036 ECEB  
-    #   OH2:
-    #     time-start: "17:00"
-    #     time-end: "18:00"
-    #     day: Thursday
-    #     location: 4036 ECEB
+    OHs: 
+      OH1:
+        time-start: "13:00"
+        time-end: "14:00"
+        day: Thursday
+        location: 4036 ECEB  
+      OH2:
+        time-start: "15:00"
+        time-end: "16:00"
+        day: Thursday
+        location: 4036 ECEB
 
 anirudh:
     display_name: "Anirudh Kumar"
@@ -309,12 +321,12 @@ anirudh:
     role: ugrad
     image: /img/people/anirudh.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "16:00"
-    #     time-end: "18:00"
-    #     day: Monday
-    #     location: 3003 ECEB
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "18:00"
+        day: Tuesday
+        location: 4034 ECEB
 
 # erin:
 #     display_name: "Erin Kim"
@@ -353,12 +365,12 @@ siddhant:
     role: ugrad
     image: /img/people/siddhant.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "17:00"
-    #     time-end: "18:00"
-    #     day: Tuesday
-    #     location: 4036 ECEB
+    OHs: 
+      OH1:
+        time-start: "17:00"
+        time-end: "18:00"
+        day: Wednesday
+        location: 3003 ECEB
 
 chris:
     display_name: "Chris Deng"
@@ -368,12 +380,12 @@ chris:
     role: ugrad
     image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Wednesday
-    #     location: 2036 ECEB
+    OHs: 
+      OH1:
+        time-start: "14:00"
+        time-end: "15:00"
+        day: Thursday
+        location: 4036 ECEB
 
 ifesi:
     display_name: "Ifesi Onubogu"
@@ -413,12 +425,12 @@ ben:
     role: ugrad
     # image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Wednesday
-    #     location: 2036 ECEB
+    OHs: 
+      OH1:
+        time-start: "15:00"
+        time-end: "16:00"
+        day: Tuesday
+        location: 4034 ECEB
 
 william:
     display_name: "William Ou"
@@ -428,12 +440,12 @@ william:
     role: ugrad
     # image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Wednesday
-    #     location: 2036 ECEB
+    OHs: 
+      OH1:
+        time-start: "17:00"
+        time-end: "18:00"
+        day: Friday
+        location: 4036 ECEB
 
 vishesh:
     display_name: "Vishesh Prasad"
@@ -443,12 +455,12 @@ vishesh:
     role: ugrad
     # image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Wednesday
-    #     location: 2036 ECEB
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "18:00"
+        day: Monday
+        location: 3020 ECEB
 
 varun:
     display_name: "Varun Shroff"
@@ -473,12 +485,12 @@ shreyas:
     role: ugrad
     # image: /img/people/chris-deng.jpg
     bio: Undergraduate Course Assistant
-    # OHs: 
-    #   OH1:
-    #     time-start: "13:00"
-    #     time-end: "15:00"
-    #     day: Wednesday
-    #     location: 2036 ECEB
+    OHs: 
+      OH1:
+        time-start: "9:00"
+        time-end: "11:00"
+        day: Monday
+        location: 4036 ECEB
 
 rubin:
     display_name: "Rubin Zou"
