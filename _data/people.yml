@@ -261,12 +261,12 @@ raghav:
     role: ugrad
     image: /img/people/anon-male.jpg
     bio: Undergraduate Course Assistant
-    OHs: 
-      OH1:
-        time-start: "11:00"
-        time-end: "12:30"
-        day: Monday
-        location: ECEB 4036
+    # OHs: 
+    #   OH1:
+    #     time-start: "11:00"
+    #     time-end: "12:30"
+    #     day: Monday
+    #     location: ECEB 4036
 
 ved:
     display_name: "Ved Eti"
@@ -487,7 +487,7 @@ shreyas:
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
-        time-start: "9:00"
+        time-start: "09:00"
         time-end: "11:00"
         day: Monday
         location: ECEB 4036
