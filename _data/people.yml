@@ -81,12 +81,12 @@ sumedh:
     role: grad
     image: /img/people/sumedh.jpeg
     bio: Graduate Course Assistant
-    OHs: 
-      OH1:
-        time-start: "13:00"
-        time-end: "14:00"
-        day: Tuesday
-        location: ECEB 3020
+    # OHs: 
+      # OH1:
+        # time-start: "13:00"
+        # time-end: "14:00"
+        # day: Tuesday
+        # location: ECEB 3020
 
 weiyang:
     display_name: "Weiyang Wang"
