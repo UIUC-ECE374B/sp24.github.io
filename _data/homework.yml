@@ -6,12 +6,13 @@ hw1:
   due-date: 2024-01-31
   questions-link: /materials/homeworks/hw1.pdf
   solutions-link: 
+
 hw2: 
   num: 2
   topic: DFAs and NFAs	
   num-problems: 4
-  assigned-date: 2024-01-26
-  due-date: 2024-02-05
+  assigned-date: 2024-01-29
+  due-date: 2024-02-07
   questions-link: 
   solutions-link: 
 
@@ -19,7 +20,7 @@ hw3:
   num: 3
   topic: Fooling Sets and CFGs	
   num-problems: 4
-  assigned-date: 2024-02-02
+  assigned-date: 2024-02-05
   due-date: 2024-02-12
   questions-link: 
   solutions-link: 
@@ -28,8 +29,8 @@ hw4:
   num: 4
   topic: Reductions and Divide & Conquer	
   num-problems: 4
-  assigned-date: 2024-02-09
-  due-date: 2024-02-19
+  assigned-date: 2024-02-19
+  due-date: 2024-02-28
   questions-link: 
   solutions-link: 
 
@@ -37,34 +38,34 @@ hw5:
   num: 5
   topic: Backtracking and Dynamic Programming	
   num-problems: 4
-  assigned-date: 2024-02-23
-  due-date: 2024-03-04
+  assigned-date: 2024-02-26
+  due-date: 2024-03-06
   questions-link: 
   solutions-link: 
 hw6: 
   num: 6
   num-problems: 4
   topic: More Dynamic Programming and Problem-Graph Modeling	
-  assigned-date: 2024-03-01
-  due-date: 2024-03-11
+  assigned-date: 2024-03-04
+  due-date: 2024-03-20
   questions-link: 
   solutions-link: 
 
 hw7: 
   num: 7
-  topic: DAGs, Shortest Paths	
+  topic: DAGs #, 	
   num-problems: 4
-  assigned-date: 2024-03-08
-  due-date: 2024-03-18
+  assigned-date: 2024-03-18
+  due-date: 2024-03-25
   questions-link: 
   solutions-link: 
 
 hw8: 
   num: 8
-  topic: Reductions, NP-Completeness	
+  topic: Shortest Paths, Reductions #, NP-Completeness	
   num-problems: 4
-  assigned-date: 2024-03-22
-  due-date: 2024-04-01
+  assigned-date: 2024-04-01
+  due-date: 2024-04-10
   questions-link: 
   solutions-link: 
 
@@ -72,7 +73,7 @@ hw9:
   num: 9
   topic: NP-Completeness, Decidability	
   num-problems: 4
-  assigned-date: 2024-04-05
-  due-date: 2024-04-15
+  assigned-date: 2024-04-08
+  due-date: 2024-04-22
   questions-link: 
   solutions-link: 
