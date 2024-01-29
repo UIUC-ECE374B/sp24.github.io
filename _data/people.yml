@@ -303,15 +303,15 @@ owen:
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
-        time-start: "13:00"
-        time-end: "14:00"
-        day: Thursday
-        location: ECEB 4036
-      OH2:
-        time-start: "15:00"
+        time-start: "14:00"
         time-end: "16:00"
         day: Thursday
         location: ECEB 4036
+      # OH2:
+      #   time-start: "15:00"
+      #   time-end: "16:00"
+      #   day: Thursday
+      #   location: ECEB 4036
 
 anirudh:
     display_name: "Anirudh Kumar"
@@ -382,8 +382,8 @@ chris:
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
-        time-start: "14:00"
-        time-end: "15:00"
+        time-start: "13:00"
+        time-end: "14:00"
         day: Thursday
         location: ECEB 4036
 
