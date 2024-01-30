@@ -286,10 +286,10 @@ ved:
 brian:
     display_name: "Brian Kim"
     netid: brianhk2
-    webpage: 
-    github: 
+    webpage: https://www.linkedin.com/in/brian-kim-7a5116177/
+    github: bkimk
     role: ugrad
-    image: /img/people/anon-male.jpg
+    image: /img/people/briankim.png
     bio: Undergraduate Course Assistant
 
 
