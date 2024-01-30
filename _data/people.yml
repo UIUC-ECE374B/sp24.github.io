@@ -178,21 +178,6 @@ gautham:
 #         day: Thursday
 #         location: ECEB 3036
 
-anthea:
-    display_name: "Anthea Chen"
-    netid: anthea2
-    # webpage: "https://www.linkedin.com/in/haoyuan-you-2a0341193/"
-    # github: azulradio
-    role: grad
-    # image: /img/people/haoyuan.png
-    bio: Graduate Course Assistant
-    OHs: 
-      OH1:
-        time-start: "16:00"
-        time-end: "17:00"
-        day: Thursday
-        location: ECEB 3036
-
 hongyu:
     display_name: "Hongyu Shen"
     netid: hongyu2
@@ -208,14 +193,14 @@ hongyu:
         day: Friday
         location: ECEB 3036
 
-# hongbo:
-#     display_name: "Hongbo Zheng"
-#     webpage: "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
-#     netid: hongboz2
-#     github: 
-#     role: grad
-#     image: /img/people/hongbo.jpeg
-#     bio: Graduate Course Assistant
+hongbo:
+    display_name: "Hongbo Zheng"
+    webpage: # "https://www.linkedin.com/in/hongbo-zheng-b088581b6"
+    netid: hongboz2
+    github: 
+    role: grad
+    image: /img/people/hongbo.jpeg
+    bio: Graduate Course Assistant
 
 
 ### Undergraduate TAs
