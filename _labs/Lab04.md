@@ -9,8 +9,8 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-01-31
-link-questions: 
-link-solutions: 
+link-questions: /materials/labs/lab4-equivalence.pdf
+link-solutions: # /materials/labs/lab4-equivalence-sol.pdf
 ---
 
 
