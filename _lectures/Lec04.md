@@ -10,7 +10,7 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-01-30
-link-slides: /materials/lecture_slides/lec3.pdf
+link-slides: /materials/lecture_slides/lec4.pdf
 link-scribbles: /materials/lecture_slides/lec4_scribbles_sp24.pdf
 link-recording: https://mediaspace.illinois.edu/media/t/1_qrk8qu6g
 ---

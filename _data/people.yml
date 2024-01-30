@@ -148,6 +148,36 @@ haoyuan:
         day: Thursday
         location: ECEB 3036
 
+gautham:
+    display_name: "Gautham Varma"
+    netid: gvarma2
+    webpage: "https://www.linkedin.com/in/gauthamvarma1997/"
+    github: VarmaGautham
+    role: grad
+    image: /img/people/gautham.jpg
+    bio: Graduate Teaching Assistant
+    OHs: 
+      OH1:
+        time-start: "16:00"
+        time-end: "17:00"
+        day: Thursday
+        location: ECEB 3036
+
+# anthea:
+#     display_name: "Anthea Chen"
+#     netid: anthea2
+#     # webpage: "https://www.linkedin.com/in/haoyuan-you-2a0341193/"
+#     # github: azulradio
+#     role: grad
+#     # image: /img/people/haoyuan.png
+#     bio: Graduate Course Assistant
+#     OHs: 
+#       OH1:
+#         time-start: "16:00"
+#         time-end: "17:00"
+#         day: Thursday
+#         location: ECEB 3036
+
 anthea:
     display_name: "Anthea Chen"
     netid: anthea2
@@ -599,21 +629,6 @@ nicholas:
 #     #     time-end: "17:00"
 #     #     day: Friday
 #     #     location: ECEB 2036  
-
-gautham:
-    display_name: "Gautham Varma"
-    netid: gvarma2
-    webpage: "https://www.linkedin.com/in/gauthamvarma1997/"
-    github: VarmaGautham
-    role: alum
-    image: /img/people/gautham.jpg
-    bio: Graduate Teaching Assistant
-    OHs: 
-    #   OH1:
-    #     time-start: "14:00"
-    #     time-end: "15:00"
-    #     day: Thursday
-    #     location: ECEB 4036
 
 sindhu:
     display_name: "Sindhu Vydana"
