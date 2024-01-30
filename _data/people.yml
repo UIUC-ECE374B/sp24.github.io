@@ -464,11 +464,11 @@ william:
 
 vishesh:
     display_name: "Vishesh Prasad"
+    display_name: "Vishesh Prasad"
     netid: vprasad3
-    # webpage: https://www.linkedin.com/in/zhiyuan-deng-61223b253/
-    # github: Chrizzel7
-    role: ugrad
-    # image: /img/people/chris-deng.jpg
+    webpage: ""
+    github: VisheshP-29
+    image: /img/people/visheh.png
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
