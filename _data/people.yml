@@ -158,10 +158,10 @@ gautham:
     bio: Graduate Teaching Assistant
     OHs: 
       OH1:
-        time-start: "16:00"
-        time-end: "17:00"
+        time-start: "11:30"
+        time-end: "12:30"
         day: Thursday
-        location: ECEB 3036
+        location: TBA
 
 # anthea:
 #     display_name: "Anthea Chen"
