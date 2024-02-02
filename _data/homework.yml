@@ -1,7 +1,7 @@
 hw1: 
   num: 1
   topic: Languages and RegEx
-  # num-problems: 4
+  num-problems: 4
   assigned-date: 2024-01-22
   due-date: 2024-01-31
   questions-link: /materials/homeworks/hw1.pdf
@@ -10,7 +10,7 @@ hw1:
 hw2: 
   num: 2
   topic: DFAs and NFAs	
-  # num-problems: 5
+  num-problems: 5
   assigned-date: 2024-01-29
   due-date: 2024-02-07
   questions-link: /materials/homeworks/hw2.pdf
