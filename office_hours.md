@@ -61,12 +61,12 @@ Under Construction. There will be no office hours the first week (use Piazza). W
     <td> Sumedh Vemuganti </td>
     <td> 2015 ECEB </td>
   </tr>
-  <!-- <tr>
-    <td> BYF </td>
-    <td> 02:00PM - 02:50PM </td>
-    <td> Sung Woo Jeon </td>
-    <td> 4070 ECEB </td>
-  </tr> -->
+  <tr>
+    <td> City Scholars </td>
+    <td> TBD </td>
+    <td> Gautham Verma </td>
+    <td> Virtual </td>
+  </tr>
 </table>
 &nbsp;
 
