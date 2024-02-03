@@ -435,10 +435,10 @@ pranav:
 ben:
     display_name: "Ben Kim"
     netid: bdkim4
-    # webpage: https://www.linkedin.com/in/zhiyuan-deng-61223b253/
+    webpage: https://www.linkedin.com/in/bkim34/
     # github: Chrizzel7
     role: ugrad
-    # image: /img/people/chris-deng.jpg
+    image: /img/people/ben.jpeg
     bio: Undergraduate Course Assistant
     OHs: 
       OH1:
