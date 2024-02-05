@@ -19,7 +19,7 @@ hw2:
 hw3: 
   num: 3
   topic: Fooling Sets and CFGs	
-  # num-problems: -
+  num-problems: 4
   assigned-date: 2024-02-05
   due-date: 2024-02-12
   questions-link: /materials/homeworks/hw3.pdf
