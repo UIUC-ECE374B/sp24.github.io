@@ -67,6 +67,12 @@ Under Construction. There will be no office hours the first week (use Piazza). W
     <td> Gautham Verma </td>
     <td> Virtual </td>
   </tr>
+  <tr>
+    <td> City Scholars </td>
+    <td> Friday 01:00PM - 01:50PM </td>
+    <td> Gautham Verma </td>
+    <td> Virtual </td>
+  </tr>
 </table>
 &nbsp;
 
