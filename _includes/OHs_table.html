@@ -31,12 +31,19 @@
                 <div class="session session-1 {{role}}-OH" style="grid-column: {{ OH_item[1].day }}; grid-row: time-{{start_time[0]}}{{start_time[1]}} / time-{{end_time[0]}}{{end_time[1]}};">
                     <span class="session-presenter">{{ name }}</span>
                     <span class="session-track">{{ OH_item[1].day }}</span>
-                    {% assign stime =  OH_item[1].time-start %} 
-                    {% assign etime =  OH_item[1].time-end %}
+                    {% if name == "Ziheng (Jack) Chen" or name == "Sumedh Vemuganti" %}
+                        {% assign start_time = "11:15" %}
+                        {% assign end_time = "12:15" %}
+                    {% else %}
+                        {% assign start_time =  OH_item[1].time-start | split: ':' %}
+                        {% assign end_time   =  OH_item[1].time-end   | split: ':' %}
+                    {% endif %}
+                    <!-- {% assign stime =  OH_item[1].time-start %} 
+                    {% assign etime =  OH_item[1].time-end %} -->
                     <span class="session-time">{% include display_time.html param=stime %} - {% include display_time.html param=etime %}</span>
                     <span class="session-track">{{ OH_item[1].location }}</span>
                 </div>
-            {% endfor %}    
+            {% endfor %}
         {% endif %}
     {% endfor %}
 
