@@ -64,7 +64,7 @@ Please note the following about homework.
 
 - All homework solutions must be submitted electronically via Gradescope. Submit one PDF file for each numbered homework problem. Gradescope will not accept other file formats such as plain text, HTML, LaTeX source, Microsoft Word (.doc or .docx), etc.
 - **Homework is due by 12 PM** of its due date.
-- Canvas is primarily a **gradebook**. You **should not** use Canvas to keep track of homework or any other course policies and logistics. <-- **Canvas is a gradebook, that's all.** -->
+- Canvas is primarily a **gradebook**. You **should not** use Canvas to keep track of homework or any other course policies and logistics. <!-- **Canvas is a gradebook, that's all.** -->
 - You will be registered with Gradescope using your university email address. If you cannot access Gradescope let the course staff know. 
 - Each homework must be completed and submitted individually. No group assignments. 
 - As an error correction, each submitted homework solution should **include the following information in large friendly letters at the top of every page/problem**. 
