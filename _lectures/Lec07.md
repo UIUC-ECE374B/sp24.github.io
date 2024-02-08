@@ -11,11 +11,7 @@ layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-02-08
 link-slides: /materials/lecture_slides/lec7.pdf
-<<<<<<< HEAD
 link-scribbles: # /materials/lecture_slides/lec7_scribbles_sp24.pdf
-=======
-link-scribbles: 
->>>>>>> origin
 link-recording: 
 ---
 
