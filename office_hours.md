@@ -3,7 +3,7 @@ layout: default
 title: Course Schedules
 ---
 
-Under Construction. There will be no office hours the first week (use Piazza). We'll begin OHs on Jan. 22.
+<!-- Under Construction. There will be no office hours during the first week (use Piazza). We'll begin OHs on Jan. 22. -->
 
 #### Lectures
 
