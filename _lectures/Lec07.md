@@ -4,14 +4,18 @@ placeholder: false
 back-color: faffff
 card-link: LecLink07
 # subtitle: And a subtitle
-description: "We'll skip context-sensitive language and go straight for Turing recognizable languages and the most important machine in modern computing: the Turing machine"
+description: "We'll first briefly talk about context-sensitive languages and then discuss Turing recognizable languages and the most important machine in modern computing: the Turing machine in great detail."
 people:
   - sindhu
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-02-08
 link-slides: /materials/lecture_slides/lec7.pdf
+<<<<<<< HEAD
 link-scribbles: # /materials/lecture_slides/lec7_scribbles_sp24.pdf
+=======
+link-scribbles: 
+>>>>>>> origin
 link-recording: 
 ---
 
