@@ -9,8 +9,8 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-02-09
-link-questions: 
-link-solutions: 
+link-questions: /materials/labs/lab07-tms.pdf
+link-solutions: # /materials/labs/lab07-tms-sol.pdf
 ---
 
 
