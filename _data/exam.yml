@@ -6,8 +6,8 @@ MT1:
   samp_exam2: /materials/exams/samples/midterm1-sp23.pdf
   samp_exam1_sol: /materials/exams/samples/midterm1-sol-fa22.pdf
   samp_exam2_sol: /materials/exams/samples/midterm1-sol-sp23.pdf
-  skillset: materials/exams/mt_1_skillset.pdf
-  cheat_sheet: materials/exams/main_MT1.pdf
+  skillset: /materials/exams/mt_1_skillset.pdf
+  cheat_sheet: /materials/exams/main_MT1.pdf
   exam_questions: 
   exam_solutions: 
 
