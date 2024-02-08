@@ -1,10 +1,10 @@
 ---
-title: Lecture 8 - Universal turing machines
+title: Lecture 8 - Universal Turing machine
 placeholder: false
 back-color: faffff
 card-link: LecLink08
 # subtitle: And a subtitle
-description: The goal of this lecture to have you internalize one truth - that there is a univerisal turing machine that can simulate any other turing machine. 
+description: The goal of this lecture is to have you internalize one truth - that there is a universal Turing machine that can simulate any other Turing machine. 
 people:
   - sungwoo
 layout: lecture
