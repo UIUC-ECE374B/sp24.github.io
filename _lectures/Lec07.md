@@ -11,8 +11,8 @@ layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-02-08
 link-slides: /materials/lecture_slides/lec7.pdf
-link-scribbles: # /materials/lecture_slides/lec7_scribbles_sp24.pdf
-link-recording: 
+link-scribbles: /materials/lecture_slides/lec7_scribbles_sp24.pdf
+link-recording: https://mediaspace.illinois.edu/media/t/1_5imo2c8v
 ---
 
 
@@ -52,7 +52,7 @@ A Turing machine is a mathematical model of computation describing an abstract m
 
 <img src="/img/lectures/Lec 8/Turing.png" alt="Concatenation" style="width: 420px;"> 
  
-- Input written on (infinite) one sided tape.
+- Input written on (infinite) one-sided tape.
 - Special blank characters
 - Finite state control
 - Every step: Read character under head, write character out, move the head right or left (or stay).
