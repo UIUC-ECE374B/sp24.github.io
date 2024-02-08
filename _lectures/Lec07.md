@@ -10,7 +10,7 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-02-08
-link-slides: 
+link-slides: /materials/lecture_slides/lec7.pdf
 link-scribbles: 
 link-recording: 
 ---
