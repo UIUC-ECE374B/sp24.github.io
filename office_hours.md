@@ -77,7 +77,7 @@ title: Course Schedules
 &nbsp;
 
 #### Office hours
-Office hours will be conducted by the instructor(s), TAs and CAs. Office hours are not a place to check if your homework solutions are correct (the CAs do not even have access to the homework solutions). Office hours are meant to help you master the course concepts and assist you in working through any assignments when you are stuck. 
+Office hours are led by the TAs and CAs. Office hours are not a place to check if your homework solutions are correct (the CAs do not even have access to the homework solutions). Office hours are meant to help you master the course concepts and assist you in working through any assignments when you are stuck. If you want to meet with the professor, then email him directly at aumrawal@illinois.edu to make an appointment.
 
 <!-- <span style="color:#FFA500">**Please note that the office hours for Tuesday (Jack) & Thursday (Sumedh) are adjusted to 11:15am - 12:15pm** -->
 
