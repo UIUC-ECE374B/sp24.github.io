@@ -28,11 +28,11 @@ hw3:
 hw4: 
   num: 4
   topic: Reductions and Divide & Conquer	
-  # num-problems: -
+  num-problems: 4
   assigned-date: 2024-02-19
   due-date: 2024-02-28
-  questions-link: 
-  solutions-link: 
+  questions-link: /materials/homeworks/hw4.pdf
+  solutions-link: # /materials/homeworks/hw4_sol.pdf
 
 hw5: 
   num: 5
