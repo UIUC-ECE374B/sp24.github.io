@@ -12,7 +12,7 @@ layout: lecture
 deliverydate: 2024-02-20
 link-slides: /materials/lecture_slides/lec9.pdf
 link-scribbles: # /materials/lecture_slides/lec9_scribbles_sp24.pdf
-link-recording: 
+link-recording: https://mediaspace.illinois.edu/media/t/1_iqkae0tj
 ---
 
 ### Algorithms
