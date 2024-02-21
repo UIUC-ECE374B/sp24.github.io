@@ -402,14 +402,14 @@ chris:
         day: Thursday
         location: ECEB 4036
 
-ifesi:
-    display_name: "Ifesi Onubogu"
-    netid: onubogu2
-    webpage: https://www.linkedin.com/in/ifesionubogu/
-    github: ifesiONUBOGU
-    role: ugrad
-    image: /img/people/ifesi.png
-    bio: Undergraduate Course Assistant
+# ifesi:
+#     display_name: "Ifesi Onubogu"
+#     netid: onubogu2
+#     webpage: https://www.linkedin.com/in/ifesionubogu/
+#     github: ifesiONUBOGU
+#     role: ugrad
+#     image: /img/people/ifesi.png
+#     bio: Undergraduate Course Assistant
     # OHs: 
     #   OH1:
     #     time-start: "16:00"
