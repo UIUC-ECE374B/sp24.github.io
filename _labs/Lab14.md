@@ -1,14 +1,14 @@
 ---
-title: Lab 14 - Graph Modeling
+title: Lab 14 - Graph Modeling II
 placeholder: false
 back-color: fafaf4
 card-link: LabLink14
 # subtitle: And a subtitle
-description: Our first graph algorithms lab. This first lab will be on formulating logic puzzles as graphing problems that can be solved using simple search algos.  
+description: A second graph algorithms lab focusing on formulating problems as graphs and using BFS/DFS to solve them.
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-03-08
+deliverydate: 2024-03-20
 link-questions: 
 link-solutions: 
 ---

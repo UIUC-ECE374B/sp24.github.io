@@ -1,14 +1,14 @@
 ---
-title: Lab 22 - Decidability I
+title: Lab 22 - Decidability II
 placeholder: false
 back-color: faf4fa
 card-link: LabLink22
 # subtitle: And a subtitle
-description: First lab on decidability. We'll be testing the waters on some simple problems provable using the standard reduction template. 
+description: The second lab on decidability. We'll prove some other languages are undecidable using slightly more complex proof structures. 
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-04-17
+deliverydate: 2024-04-19
 link-questions: 
 link-solutions: 
 ---

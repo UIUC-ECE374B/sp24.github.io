@@ -1,16 +1,16 @@
 ---
-title: Lab 11 - Backtracking
+title: Lab 11 - Dynamic Programming I
 placeholder: false
 back-color: fafaf4
 card-link: LabLink11
 # subtitle: And a subtitle
-description: We'll continue our work on recursion by practicing how to use backtracking to create optimal recursions. Special emphasis on writing recurrences.
+description: Now that we've formulated our solutions as recurrences, let's turn them into efficient algorithms. 
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-02-28
-link-questions: 
-link-solutions: 
+deliverydate: 2024-03-01
+link-questions: # /materials/labs/lab11.pdf
+link-solutions: # /materials/labs/lab11-sol.pdf
 ---
 
 

@@ -2,7 +2,7 @@
 title: Lab 8 - Binary Search
 placeholder: false
 back-color: fafaf4
-card-link: LabLink09
+card-link: LabLink08
 # subtitle: And a subtitle
 description: "We'll start our investigation of recursion through binary search and the many variations of the binary search problem."
 people:

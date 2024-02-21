@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Lab 23 - Decidability II
 placeholder: false
 back-color: faf4fa
@@ -20,4 +20,4 @@ link-solutions:
 
 
 
-
+ -->

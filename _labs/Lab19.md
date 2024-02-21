@@ -1,14 +1,14 @@
 ---
-title: Lab 19 - Reductions
+title: Lab 19 - NP-completeness I
 placeholder: false
 back-color: faf4fa
 card-link: LabLink19
 # subtitle: And a subtitle
-description: We begin with a discussion of reductions and show how one can solve novel problems using known solutions from standard problems.
+description: We explore a few simple reductions to prove that a problem is NP-hard. Special emphasis on the SAT problem. 
 people:
 layout: post
 no-link: true  # stops link to page 
-deliverydate: 2024-04-05
+deliverydate: 2024-04-10
 link-questions: 
 link-solutions: 
 ---
