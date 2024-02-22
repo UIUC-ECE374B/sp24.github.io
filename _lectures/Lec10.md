@@ -12,7 +12,7 @@ layout: lecture
 deliverydate: 2024-02-22
 link-slides: /materials/lecture_slides/lec10.pdf
 link-scribbles: # /materials/lecture_slides/lec10_scribbles_sp24.pdf
-link-recording: 
+link-recording: https://mediaspace.illinois.edu/media/t/1_nx5471rp
 ---
 
 ## Introduction to Divide and Conquer Algorithms
