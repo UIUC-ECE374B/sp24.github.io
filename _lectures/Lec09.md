@@ -72,7 +72,7 @@ example: $T(n) = 2T(n/2) + cn$ can be rewritten as $T(n) = 2(2T(n/4)+cn/2)+cn = 
 
 * Textbooks 
   * Erickson, Jeff. *Algorithms* 
-	* [Chapter 1 - Recursion](https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf)
+	* [Chapter 1 - Recursion](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf)
   * Skiena, Steven. *The Algorithms Design Manual*
     * Chapter 1.5 - Modeling the Problem
     * Chapter 2.1 - The RAM Model of Computation
