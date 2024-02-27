@@ -37,11 +37,11 @@ hw4:
 hw5: 
   num: 5
   topic: Backtracking and Dynamic Programming	
-  # num-problems: -
+  num-problems: 4
   assigned-date: 2024-02-26
   due-date: 2024-03-06
-  questions-link: 
-  solutions-link: 
+  questions-link: /materials/homeworks/hw5.pdf
+  solutions-link: # /materials/homeworks/hw5_sol.pdf
 hw6: 
   num: 6
   # num-problems: -
