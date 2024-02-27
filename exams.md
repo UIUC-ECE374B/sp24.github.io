@@ -117,9 +117,17 @@ title: Exams
 
 &nbsp;
 
-Couple things to note about exams:
-- All the midterms will be administered during lecture time in the usual lecture room. 
-- The final will be conducted according to the registrar's schedule. 
+**Midterm 2 & Midterm 3 Room Assignments**
+
+Midterm 2 & 3 will take place in different rooms from our regular classroom. Please locate your assigned exam room based on the **initial letter** of your **Last Name**
+- A to G: Gregory Hall 100
+- H to L: Loomis Laboratory of Physics 151
+- M to S: Natural History Building 2079
+- T to Z: Wohlers Hall 141
+
+<!-- Couple things to note about exams: -->
+<!-- - All the midterms will be administered during lecture time in the usual lecture room.  -->
+The final will be conducted according to the registrar's schedule. 
 
 ### Exam Policies
 
