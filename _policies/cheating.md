@@ -13,10 +13,10 @@ tl;dr Links to an external site.: Be honest. Cite your sources. We mean it. If y
 
 **Each student (or homework group) must write their own solutions, in their own words, and must properly credit all sources.**
 
-For more information and examples, see any of the following.
+For more information and examples, refer to the following.
 
-- The ECE department [policy](https://ece.illinois.edu/academics/ugrad/advising-tips/academic-honesty)
-- The Provost Office's Students' [Quick Reference Guide to Academic Integrity](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/)
+- The ECE department [policy](https://ece.illinois.edu/academics/ugrad/advising-tips/academic-honesty).
+- The Provost Office's Students' [Quick Reference Guide to Academic Integrity](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/).
 - [Article 1, Part 4 of the Student Code.](https://studentcode.illinois.edu/article1/part4/1-401/)
 
 If you have any doubts about whether something constitutes plagiarism, talk to the instructor(s) or the TAs, and err on the side of caution.
