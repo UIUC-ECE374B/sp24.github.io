@@ -73,7 +73,7 @@ Please note the following about homework.
     - Name and NetID.
 - **We will not accept late homework for any reason.** To offset this rather draconian policy, we have a very generous homework drop policy. <--(compared to other sections/courses)--> Also, remember you can always resubmit a problem to Gradescope. There is no reason to wait until the last minute to submit your work.  
 
-### Homework Grading Policy: 
+### Homework Grading Policy
 
 - **Homework** is graded by the entire course staff, within Gradescope. All numbered homework problems are worth the same amount. 
 - Under normal circumstances, all homework should be graded within two weeks of submission. However, the graders also have significant responsibilities and may take longer to grade the homework. After the due date, the homework solutions are immediately posted and you can check your answers against the solutions.
