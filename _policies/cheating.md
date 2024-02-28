@@ -7,7 +7,7 @@ description: Post about the course integrity policy.
 
 This policy statement is unfortunately necessary, thanks to the actions of a tiny minority of students. If you have any questions or concerns, please do not hesitate to ask during the lecture, lab, office hours, on Piazza, or by email.
 
-tl;dr Links to an external site.: Be honest. Cite your sources. We mean it. If you need help, please ask. <!-- Don't be stupid! -->
+[TL;DR] Be honest. Cite your sources. We mean it. If you need help, please ask. <!-- Don't be stupid! -->
 
 #### Our expectations
 
