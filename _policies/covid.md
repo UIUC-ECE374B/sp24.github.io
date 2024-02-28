@@ -9,7 +9,7 @@ description: What to do if you get sick? <!--COVID-19 (or any other illness).-->
 
 <!--Even so, likely that a number of us will get sick during the semester. So the question is, -->
 
-### What should you do if get sick?
+#### What should you do if you get sick?
 
 First, do not come to campus. Stay home and focus on getting better. If you start feeling worse, go to the doctor. Your health matters more than any grade, so please do your best to recover first. 
 
