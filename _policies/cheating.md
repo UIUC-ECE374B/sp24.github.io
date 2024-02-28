@@ -2,7 +2,7 @@
 layout: default
 title: Don't cheat
 
-description: Post about the course integrity policy.
+description: Course integrity policy.
 ---
 
 This policy statement is unfortunately necessary, thanks to the actions of a tiny minority of students. If you have any questions or concerns, please do not hesitate to ask during the lecture, lab, office hours, on Piazza, or by email.
