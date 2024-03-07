@@ -12,7 +12,7 @@ layout: lecture
 deliverydate: 2024-03-07
 link-slides: /materials/lecture_slides/lec14.pdf
 link-scribbles: # /materials/lecture_slides/lec14_scribbles_sp24.pdf
-link-recording: 
+link-recording: https://mediaspace.illinois.edu/media/t/1_0plvqhu1
 ---
 
 <h4> I. Undirected graphs </h4>
