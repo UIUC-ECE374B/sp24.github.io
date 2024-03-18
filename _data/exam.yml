@@ -15,14 +15,14 @@ MT2:
   num: 2
   topic: Algorithms 
   date: 2024-03-26
-  samp_exam1: 
-  samp_exam2: 
-  samp_exam1_sol: 
-  samp_exam2_sol: 
+  samp_exam1: /materials/exams/samples/midterm2-fa22.pdf
+  samp_exam2: /materials/exams/samples/midterm2-sp23.pdf
+  samp_exam1_sol: /materials/exams/samples/midterm1-sol-fa22.pdf
+  samp_exam2_sol: /materials/exams/samples/midterm1-sol-sp23.pdf
   skillset: 
-  cheat_sheet: 
-  exam_questions: 
-  exam_solutions: 
+  cheat_sheet: /materials/exams/main_MT2.pdf
+  exam_questions: # materials/exams/midterm2-vf-sp24.pdf
+  exam_solutions: # materials/exams/midterm2-vf-sp24-sol.pdf
 
 MT3: 
   num: 3

@@ -55,7 +55,7 @@ hw6:
 hw7: 
   num: 7
   topic: DAGs #, 	
-  num-problems: 5
+  num-problems: 3
   assigned-date: 2024-03-18
   due-date: 2024-03-25
   questions-link: /materials/homeworks/hw7.pdf
