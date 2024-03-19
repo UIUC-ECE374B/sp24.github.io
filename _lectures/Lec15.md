@@ -10,9 +10,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-03-19
-link-slides: 
-link-scribbles: 
-link-recording: 
+link-slides: /materials/lecture_slides/lec15.pdf
+link-scribbles: # /materials/lecture_slides/lec15_scribbles_sp24.pdf
+link-recording: # https://mediaspace.illinois.edu/media/t/1_0plvqhu1
 ---
 
 <h4>Directed Acyclic Graph</h4>
