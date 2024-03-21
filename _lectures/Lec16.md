@@ -10,9 +10,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-03-21
-link-slides: 
-link-scribbles: 
-link-recording: 
+link-slides: /materials/lecture_slides/lec16.pdf
+link-scribbles: # /materials/lecture_slides/lec16_scribbles_sp24.pdf
+link-recording: # https://mediaspace.illinois.edu/media/t/1_l49tt5xq
 ---
 
 ## Breadth First Search Algorithm
