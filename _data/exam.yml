@@ -8,8 +8,8 @@ MT1:
   samp_exam2_sol: /materials/exams/samples/midterm1-sol-sp23.pdf
   skillset: /materials/exams/mt1_skillset.pdf
   cheat_sheet: /materials/exams/main_MT1.pdf
-  exam_questions: materials/exams/midterm1-vf-sp24.pdf
-  exam_solutions: materials/exams/midterm1-vf-sp24-sol.pdf
+  exam_questions: /materials/exams/midterm1-vf-sp24.pdf
+  exam_solutions: /materials/exams/midterm1-vf-sp24-sol.pdf
 
 MT2: 
   num: 2
