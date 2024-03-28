@@ -4,7 +4,7 @@ placeholder: false
 back-color: fafaf4
 card-link: LabLink15
 # subtitle: And a subtitle
-description: Having learned our first shortest path algorithm (Djikstra's) we'll discuss the shortest path problem in a variety of contexts.
+description: Having learned our first shortest path algorithm (Dijkstra's) we'll discuss the shortest path problem in a variety of contexts.
 people:
 layout: post
 no-link: true  # stops link to page 
