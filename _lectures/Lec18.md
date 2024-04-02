@@ -10,9 +10,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-04-02
-link-slides: 
-link-scribbles: 
-link-recording: 
+link-slides: /materials/lecture_slides/lec18.pdf
+link-scribbles: # /materials/lecture_slides/lec18_scribbles_sp24.pdf
+link-recording: # https://mediaspace.illinois.edu/media/t/1_fruip3uc
 ---
 
 <h3>Minimum Spanning Trees</h3>
