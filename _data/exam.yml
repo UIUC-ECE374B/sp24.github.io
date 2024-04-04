@@ -21,18 +21,18 @@ MT2:
   samp_exam2_sol: /materials/exams/samples/midterm2-sol-sp23.pdf
   skillset: /materials/exams/mt2_skillset.pdf
   cheat_sheet: /materials/exams/main_MT2.pdf
-  exam_questions: # materials/exams/midterm2-vf-sp24.pdf
-  exam_solutions: # materials/exams/midterm2-vf-sp24-sol.pdf
+  exam_questions: # /materials/exams/midterm2-vf-sp24.pdf
+  exam_solutions: # /materials/exams/midterm2-vf-sp24-sol.pdf
 
 MT3: 
   num: 3
   topic: NP-completeness and decidability 
   date: 2024-04-25
-  samp_exam1: 
-  samp_exam2: 
-  samp_exam1_sol: 
-  samp_exam2_sol: 
-  skillset: 
+  samp_exam1: /materials/exams/samples/midterm1-fa22.pdf
+  samp_exam2: /materials/exams/samples/midterm1-sp23.pdf
+  samp_exam1_sol: /materials/exams/samples/midterm1-sol-fa22.pdf
+  samp_exam2_sol: /materials/exams/samples/midterm1-sol-sp23.pdf
+  skillset: /materials/exams/mt1_skillset.pdf
   cheat_sheet: 
   exam_questions: 
   exam_solutions: 
