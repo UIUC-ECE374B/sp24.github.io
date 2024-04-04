@@ -9,8 +9,8 @@ people:
 layout: post
 no-link: true  # stops link to page 
 deliverydate: 2024-04-05
-link-questions: 
-link-solutions: 
+link-questions: /materials/labs/lab18.pdf
+link-solutions: # /materials/labs/lab18-sol.pdf
 ---
 
 
