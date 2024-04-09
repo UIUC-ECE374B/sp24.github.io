@@ -11,8 +11,8 @@ layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-04-09
 link-slides: /materials/lecture_slides/lec20.pdf
-link-scribbles: # /materials/lecture_slides/lec20_scribbles_sp24.pdf
-link-recording: # https://mediaspace.illinois.edu/media/t/1_lle2xfgj
+link-scribbles: /materials/lecture_slides/lec20_scribbles_sp24.pdf
+link-recording: https://mediaspace.illinois.edu/media/t/1_x516yvdm
 ---
 
 ### SAT
