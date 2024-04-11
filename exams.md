@@ -128,7 +128,11 @@ The venue for midterm exams 2 and 3 will be as follows. The room assigned to you
 
 <!-- Couple things to note about exams: -->
 <!-- - All the midterms will be administered during lecture time in the usual lecture room.  -->
-The final exam will be conducted according to the registrar's schedule.
+
+The venue for the final exam (May 7 from 7 to 10 p.m.) will be as follows. The room assigned to you will be based on the first letter of your Last Name (the last word in your full name).
+
+- A to L: Campus Instructional Facility 3039
+- M to Z: Loomis Laboratory of Physics 141
 
 ### Exam Policies
 
