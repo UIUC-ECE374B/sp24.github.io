@@ -11,8 +11,8 @@ layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-04-18
 link-slides: /materials/lecture_slides/lec23.pdf
-link-scribbles: # /materials/lecture_slides/lec23_scribbles_sp24.pdf
-link-recording: # https://mediaspace.illinois.edu/media/t/1_mqt4iufj
+link-scribbles: /materials/lecture_slides/lec23_scribbles_sp24.pdf
+link-recording: https://mediaspace.illinois.edu/media/t/1_agusleb1
 ---
 
 # Decidability
