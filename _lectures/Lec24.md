@@ -9,9 +9,9 @@ people:
 layout: lecture
 # no-link: true  # stops link to page 
 deliverydate: 2024-04-23
-link-slides: 
-link-scribbles: 
-link-recording: 
+link-slides: /materials/lecture_slides/lec24.pdf
+link-scribbles: # /materials/lecture_slides/lec24_scribbles_sp24.pdf
+link-recording: # https://mediaspace.illinois.edu/media/t/1_agusleb1
 ---
 
 Nothing so far.....
